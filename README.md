@@ -8,7 +8,7 @@ class accounter
 {
 	 private int account_number;
          private int balance;         
-	Scanner Ha = new Scanner(System.in);
+	Scanner Ha = new                Scanner(System.in);
        
    
 	void check_balance()
@@ -157,3 +157,6 @@ public class newy
 		}
 	
         }
+            .
+                  
+            
